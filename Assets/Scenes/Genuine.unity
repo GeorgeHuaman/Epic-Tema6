@@ -458,6 +458,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 144470524083051395, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1017904232948248954, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -478,6 +483,16 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2029800032250629497, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3424546662294771415, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4046579060710465534, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -497,6 +512,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5164695465815183743, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 5234691531303347217, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
         type: 3}
@@ -623,6 +643,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Modelo3D
       objectReference: {fileID: 0}
+    - target: {fileID: 7433803036288244568, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818219604466359918, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 7937608615245567544, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7969304494540561632, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
         type: 3}
       propertyPath: m_AnchorMax.y
@@ -642,6 +677,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9196288411025855646, guid: ee9d230cd53bca04ab8b1ddfde9ec175,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee9d230cd53bca04ab8b1ddfde9ec175, type: 3}
